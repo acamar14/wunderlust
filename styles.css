@@ -60,7 +60,7 @@ for more information */
 	overflow: hidden;
   }
   
-@import url(https://fonts.google.com/share?selection.family=Molle:ital@1%7CMontserrat);
+@import url(https://fonts.googleapis.com/css2?family=Molle&family=Montserrat&display=swap);
 
 #skip {
 	position: absolute;
