@@ -62,16 +62,6 @@ for more information */
   
 @import url(https://fonts.google.com/share?selection.family=Molle:ital@1%7CMontserrat);
 
-:root{
-    --yellow: #F6D64A;
-    --teal:#55BCD5;
-    --purple:#9B26B0;
-    --dk-blue: #499BD2;
-    --dk-gray:#222222;
-    --gray:#EAEAEA;
-    --white:#FFFFFF;
-    --black: #000000;
-}
 #skip {
 	position: absolute;
 	right: -9999999px;
@@ -186,7 +176,7 @@ header {
   
 #menu-toggle ul {
 	display: none;
-	color: var(--black);
+	color: #000000;
 	list-style-type: none;
 	background-color: #55BCD5;
 	text-align: center;
@@ -283,7 +273,7 @@ img {
 	background-color: #499BD2;
   }
   #about p, #about h4{
-	color: var(--black);
+	color: #000000;
   }
   
 #about h3 {
